@@ -7,5 +7,43 @@
 }
 
 .text-orange {
+
     
 }
+.bg-orange {
+    background-color: #f8a000 !important;
+}
+
+.bg-orange {
+    background-color: #f8a000;
+}
+
+.border-orange {
+    border-color: #f8a000 !important;
+}
+
+.carousel-caption {
+    bottom: 50% !important;
+}
+
+.hr {
+    border-top: 3px solid white;
+    opacity: 1;
+    width: 150px;
+    margin: 0 auto;
+}
+
+.icon {
+    width: 65px !important;
+}
+
+.nav-link.active {
+    background-color: #f8a000 !important;
+    color: white !important;
+    border: none !important;
+}
+
+.menu-bg {
+    background-color: #31302d !important;
+}
+
