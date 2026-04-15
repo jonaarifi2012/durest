@@ -14,8 +14,8 @@
     background-color: #f8a000;
 }
 
-body {
-    height: 2000px;
+.border-orange {
+    border-color: #f8a000 !important;
 }
 
 .carousel-caption {
@@ -31,4 +31,14 @@ body {
 
 .icon {
     width: 65px !important;
+}
+
+.nav-link.active {
+    background-color: #f8a000 !important;
+    color: white !important;
+    border: none !important;
+}
+
+.menu-bg {
+    background-color: #31302d !important;
 }
